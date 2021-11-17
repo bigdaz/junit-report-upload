@@ -6,6 +6,6 @@ tasks.register("importJUnitXml", ImportJUnitXmlReports) {
         include '**/test_result_*.xml'
     }
 
-    dialect = ANDROID_CONNECTED
+    dialect = GENERIC
     reports.from(resultFiles)
 }
