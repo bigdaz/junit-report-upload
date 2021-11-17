@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<testsuite name='' hostname='localhost' tests='3' failures='0' skipped='0' errors='0' time='0.042' timestamp='2021-11-16T08:57:20'>
-  <properties />
-  <testcase name='getAncestorOwner' classname='androidx.lifecycle.ViewTreeLifecycleOwnerTest' time='0.036' />
-  <testcase name='shadowedOwner' classname='androidx.lifecycle.ViewTreeLifecycleOwnerTest' time='0.004' />
-  <testcase name='setGetSameView' classname='androidx.lifecycle.ViewTreeLifecycleOwnerTest' time='0.002' />
-</testsuite>

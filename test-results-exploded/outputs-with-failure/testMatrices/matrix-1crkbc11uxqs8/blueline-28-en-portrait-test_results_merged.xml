@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<testsuite name="" tests="6" failures="0" flakes="0" errors="0" skipped="0" time="0.043" hostname="localhost">
-  <testcase name="testBindStartUnbindStop" classname="androidx.lifecycle.ServiceLifecycleTest" time="0.019" />
-  <testcase name="testBindStartStopUnbind" classname="androidx.lifecycle.ServiceLifecycleTest" time="0.001" />
-  <testcase name="testUnboundedService" classname="androidx.lifecycle.ServiceLifecycleTest" time="0.001" />
-  <testcase name="testStartBindUnbindStop" classname="androidx.lifecycle.ServiceLifecycleTest" time="0.003" />
-  <testcase name="testBoundedService" classname="androidx.lifecycle.ServiceLifecycleTest" time="0.008" />
-  <testcase name="testStartBindStopUnbind" classname="androidx.lifecycle.ServiceLifecycleTest" time="0.011" />
-</testsuite>

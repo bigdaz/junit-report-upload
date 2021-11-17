@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<testsuite name='' hostname='localhost' tests='4' failures='0' skipped='0' errors='0' time='0.125' timestamp='2021-11-16T09:56:32'>
-  <properties />
-  <testcase name='testIsGraphFailure' classname='androidx.navigation.truth.NavControllerSubjectTest' time='0.1' />
-  <testcase name='testIsCurrentDestinationFailure' classname='androidx.navigation.truth.NavControllerSubjectTest' time='0.015' />
-  <testcase name='testIsCurrentDestination' classname='androidx.navigation.truth.NavControllerSubjectTest' time='0.005' />
-  <testcase name='testIsGraph' classname='androidx.navigation.truth.NavControllerSubjectTest' time='0.005' />
-</testsuite>

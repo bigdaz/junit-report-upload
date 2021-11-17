@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<testsuite name='' hostname='localhost' tests='4' failures='0' skipped='0' errors='0' time='0.022' timestamp='2021-11-16T08:57:31'>
-  <properties />
-  <testcase name='testJobIsSuperVisor' classname='androidx.lifecycle.ViewModelTest' time='0.017' />
-  <testcase name='testVmScope' classname='androidx.lifecycle.ViewModelTest' time='0.002' />
-  <testcase name='testStartJobInClearedVM' classname='androidx.lifecycle.ViewModelTest' time='0.001' />
-  <testcase name='testSameScope' classname='androidx.lifecycle.ViewModelTest' time='0.002' />
-</testsuite>

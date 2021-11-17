@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<testsuite name="" tests="4" failures="0" flakes="0" errors="0" skipped="0" time="0.022" hostname="localhost">
-  <testcase name="testJobIsSuperVisor" classname="androidx.lifecycle.ViewModelTest" time="0.017" />
-  <testcase name="testVmScope" classname="androidx.lifecycle.ViewModelTest" time="0.002" />
-  <testcase name="testStartJobInClearedVM" classname="androidx.lifecycle.ViewModelTest" time="0.001" />
-  <testcase name="testSameScope" classname="androidx.lifecycle.ViewModelTest" time="0.002" />
-</testsuite>

@@ -7,10 +7,3 @@ tasks.register("importJUnitXml", ImportJUnitXmlReports) {
         include '**/test_result_*.xml'
     })
 }
-
-tasks.register("importFailureJUnitXml", ImportJUnitXmlReports) {
-    dialect = GENERIC
-    reports.from(fileTree('test-results-exploded/outputs-with-failure').matching {
-        include '**/test_result_*.xml'
-    })
-}
