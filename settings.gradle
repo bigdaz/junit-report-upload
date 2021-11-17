@@ -4,12 +4,11 @@ plugins {
 }
 
 gradleEnterprise {
-    server = "https://localhost"
-    allowUntrustedServer = true
-
     buildScan {
         publishAlways()
-        uploadInBackground = false
+        
+        termsOfServiceUrl = "https://gradle.com/terms-of-service"
+        termsOfServiceAgree = "yes"
     }
 }
 
