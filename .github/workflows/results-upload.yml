@@ -1,0 +1,16 @@
+name: Test JUnit results upload
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  upload-results:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout sources
+      uses: actions/checkout@v2
+    - name: Run Gradle
+      uses: gradle/gradle-build-action@v2
+      with:
+        arguments: importJUnitXml
