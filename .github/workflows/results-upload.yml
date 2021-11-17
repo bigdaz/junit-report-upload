@@ -10,7 +10,11 @@ jobs:
     steps:
     - name: Checkout sources
       uses: actions/checkout@v2
-    - name: Run Gradle
+    - name: Upload successful results
       uses: gradle/gradle-build-action@v2
       with:
         arguments: importJUnitXml
+    - name: Upload results with failure
+      uses: gradle/gradle-build-action@v2
+      with:
+        arguments: importFailureJUnitXml
