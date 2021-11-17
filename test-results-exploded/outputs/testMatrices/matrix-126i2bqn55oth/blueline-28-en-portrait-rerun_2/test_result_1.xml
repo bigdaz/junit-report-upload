@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite name='' hostname='localhost' tests='51' failures='1' skipped='0' errors='0' time='14.811' timestamp='2021-11-16T08:59:01'>
+  <properties />
+  <testcase name='test' classname='androidx.lifecycle.SavedStateHandleParcelingTest' time='0.016' />
+  <testcase name='testRemoveFromDefault' classname='androidx.lifecycle.SavedStateHandleParcelingTest' time='0.002'>
+    <failure>java.lang.AssertionError: 
+Expected: is &lt;false&gt;
+     but: was &lt;true&gt;
+	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
+	at org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:8)
+	at androidx.lifecycle.SavedStateHandleParcelingTest.testRemoveFromDefault(SavedStateHandleParcelingTest.java:68)
+    </failure>
+  </testcase>
+  <testcase name='testResetProvider' classname='androidx.lifecycle.SavedStateHandleProviderTest' time='0.001' />
+  <testcase name='test' classname='androidx.lifecycle.SavedStateHandleProviderTest' time='0.001' />
+  <testcase name='testLegacyCreateAndroidAbstractVM' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateFactoryTest' time='0.23' />
+  <testcase name='testLegacyCreateFailAndroidVM' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateFactoryTest' time='0.167' />
+  <testcase name='testCreateFailAndroidVM' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateFactoryTest' time='0.134' />
+  <testcase name='testCreateAndroidVM' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateFactoryTest' time='0.157' />
+  <testcase name='testLegacyMethodsWithEmptyConstructor' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateFactoryTest' time='0.158' />
+  <testcase name='testLegacyCreateAndroidVM' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateFactoryTest' time='0.147' />
+  <testcase name='testSavedStateHandleSupportWithConfigChange' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleSupportTest' time='0.006' />
+  <testcase name='defaultArgs' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleSupportTest' time='0.005' />
+  <testcase name='testSavedStateHandleSupport' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleSupportTest' time='0.008' />
+  <testcase name='failWithNoInstallation' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleSupportTest' time='0.005' />
+  <testcase name='newLiveData_existingNullValue_withInitial' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.005' />
+  <testcase name='newLiveData_noDefault' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.003' />
+  <testcase name='newLiveData_nullInitial' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.002' />
+  <testcase name='newLiveData_existingValue_withInitial' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.003' />
+  <testcase name='newLiveData_existingValue_withNullInitial' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.002' />
+  <testcase name='testContains' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.004' />
+  <testcase name='testSetNullGet' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.002' />
+  <testcase name='testRemoveWithLD' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.003' />
+  <testcase name='testSetObserve' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.002' />
+  <testcase name='testKeySet' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.006' />
+  <testcase name='testRemove' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.001' />
+  <testcase name='testSetGet' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.001' />
+  <testcase name='newliveData_withInitial' classname='androidx.lifecycle.viewmodel.savedstate.SavedStateHandleTest' time='0.001' />
+  <testcase name='testSimpleSavingVM[Mode(ownerMode=fragment, factoryMode=legacy_non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.64' />
+  <testcase name='testReattachment[Mode(ownerMode=fragment, factoryMode=legacy_non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.75' />
+  <testcase name='testFirstAccessAfterOnStop[Mode(ownerMode=fragment, factoryMode=legacy_non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.794' />
+  <testcase name='testSimpleSavingVM[Mode(ownerMode=fragment, factoryMode=non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.555' />
+  <testcase name='testReattachment[Mode(ownerMode=fragment, factoryMode=non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.579' />
+  <testcase name='testFirstAccessAfterOnStop[Mode(ownerMode=fragment, factoryMode=non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.701' />
+  <testcase name='testSimpleSavingVM[Mode(ownerMode=fragment, factoryMode=legacy_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.472' />
+  <testcase name='testReattachment[Mode(ownerMode=fragment, factoryMode=legacy_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.543' />
+  <testcase name='testFirstAccessAfterOnStop[Mode(ownerMode=fragment, factoryMode=legacy_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.694' />
+  <testcase name='testSimpleSavingVM[Mode(ownerMode=fragment, factoryMode=abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.487' />
+  <testcase name='testReattachment[Mode(ownerMode=fragment, factoryMode=abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.508' />
+  <testcase name='testFirstAccessAfterOnStop[Mode(ownerMode=fragment, factoryMode=abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.684' />
+  <testcase name='testSimpleSavingVM[Mode(ownerMode=activity, factoryMode=legacy_non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.481' />
+  <testcase name='testReattachment[Mode(ownerMode=activity, factoryMode=legacy_non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.559' />
+  <testcase name='testFirstAccessAfterOnStop[Mode(ownerMode=activity, factoryMode=legacy_non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.616' />
+  <testcase name='testSimpleSavingVM[Mode(ownerMode=activity, factoryMode=non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.456' />
+  <testcase name='testReattachment[Mode(ownerMode=activity, factoryMode=non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.495' />
+  <testcase name='testFirstAccessAfterOnStop[Mode(ownerMode=activity, factoryMode=non_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.602' />
+  <testcase name='testSimpleSavingVM[Mode(ownerMode=activity, factoryMode=legacy_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.438' />
+  <testcase name='testReattachment[Mode(ownerMode=activity, factoryMode=legacy_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.544' />
+  <testcase name='testFirstAccessAfterOnStop[Mode(ownerMode=activity, factoryMode=legacy_abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.605' />
+  <testcase name='testSimpleSavingVM[Mode(ownerMode=activity, factoryMode=abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.438' />
+  <testcase name='testReattachment[Mode(ownerMode=activity, factoryMode=abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.508' />
+  <testcase name='testFirstAccessAfterOnStop[Mode(ownerMode=activity, factoryMode=abstract)]' classname='androidx.lifecycle.viewmodel.savedstate.ViewModelsWithStateTest' time='0.59' />
+</testsuite>

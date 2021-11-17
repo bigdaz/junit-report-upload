@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="" tests="9" failures="0" flakes="0" errors="0" skipped="0" time="0.029" hostname="localhost">
+  <testcase name="testEmptyConstructorAndEmptyExtras" classname="androidx.lifecycle.AndroidViewModelFactoryTest" time="0.019" />
+  <testcase name="testAppConstructorAndEmptyExtras" classname="androidx.lifecycle.AndroidViewModelFactoryTest" time="0.002" />
+  <testcase name="testAppConstructorAndNoExtras" classname="androidx.lifecycle.AndroidViewModelFactoryTest" time="0.002" />
+  <testcase name="testEmptyConstructorAndExtras" classname="androidx.lifecycle.AndroidViewModelFactoryTest" time="0.002" />
+  <testcase name="testEmptyConstructorAndNoExtras" classname="androidx.lifecycle.AndroidViewModelFactoryTest" time="0.002" />
+  <testcase name="getAncestorOwner" classname="androidx.lifecycle.ViewTreeViewModelStoreOwnerTest" time="0.001" />
+  <testcase name="setFindsSameView" classname="androidx.lifecycle.ViewTreeViewModelStoreOwnerTest" time="0.0" />
+  <testcase name="shadowedOwner" classname="androidx.lifecycle.ViewTreeViewModelStoreOwnerTest" time="0.0" />
+  <testcase name="setGetSameView" classname="androidx.lifecycle.ViewTreeViewModelStoreOwnerTest" time="0.001" />
+</testsuite>

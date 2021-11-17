@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="" tests="7" failures="0" flakes="0" errors="0" skipped="0" time="3.336" hostname="localhost">
+  <testcase name="moduleName" classname="androidx.navigation.dynamicfeatures.fragment.DynamicFragmentNavigatorDestinationBuilderTest" time="0.526" />
+  <testcase name="no_moduleName" classname="androidx.navigation.dynamicfeatures.fragment.DynamicFragmentNavigatorDestinationBuilderTest" time="0.39" />
+  <testcase name="reified" classname="androidx.navigation.dynamicfeatures.fragment.DynamicFragmentNavigatorDestinationBuilderTest" time="0.352" />
+  <testcase name="recreateTest" classname="androidx.navigation.dynamicfeatures.fragment.DynamicIncludeGraphRecreateTest" time="0.952" />
+  <testcase name="create_noArgs" classname="androidx.navigation.dynamicfeatures.fragment.DynamicNavHostFragmentTest" time="0.409" />
+  <testcase name="createSplitInstallManager" classname="androidx.navigation.dynamicfeatures.fragment.DynamicNavHostFragmentTest" time="0.327" />
+  <testcase name="create_withArgs" classname="androidx.navigation.dynamicfeatures.fragment.DynamicNavHostFragmentTest" time="0.38" />
+</testsuite>

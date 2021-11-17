@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite name='' hostname='localhost' tests='178' failures='0' skipped='0' errors='0' time='0.551' timestamp='2021-11-16T09:56:21'>
+  <properties />
+  <testcase name='addInDefaultArgs[arguments={}, bundle=Bundle[{}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.02' />
+  <testcase name='addInDefaultArgs[arguments={}, bundle=Bundle[{customArg=custom}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={}, bundle=Bundle[{stringArg=bbb}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdc1c7a}, bundle=Bundle[{}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdc1c7a}, bundle=Bundle[{customArg=custom}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdc1c7a}, bundle=Bundle[{stringArg=bbb}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.001' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdc1c7a, intArg=androidx.navigation.NavArgument@ae409e86}, bundle=Bundle[{}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.001' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdc1c7a, intArg=androidx.navigation.NavArgument@ae409e86}, bundle=Bundle[{customArg=custom}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.001' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdc1c7a, intArg=androidx.navigation.NavArgument@ae409e86}, bundle=Bundle[{stringArg=bbb}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.001' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, intArg=androidx.navigation.NavArgument@ae409e86}, bundle=Bundle[{}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.0' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, intArg=androidx.navigation.NavArgument@ae409e86}, bundle=Bundle[{customArg=custom}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.0' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, intArg=androidx.navigation.NavArgument@ae409e86}, bundle=Bundle[{stringArg=bbb}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.036' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, longArg=androidx.navigation.NavArgument@2814df3d}, bundle=Bundle[{}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, longArg=androidx.navigation.NavArgument@2814df3d}, bundle=Bundle[{customArg=custom}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, longArg=androidx.navigation.NavArgument@2814df3d}, bundle=Bundle[{stringArg=bbb}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, floatArg=androidx.navigation.NavArgument@6aac2ead}, bundle=Bundle[{}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.001' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, floatArg=androidx.navigation.NavArgument@6aac2ead}, bundle=Bundle[{customArg=custom}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, floatArg=androidx.navigation.NavArgument@6aac2ead}, bundle=Bundle[{stringArg=bbb}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, referenceArg=androidx.navigation.NavArgument@4080d037}, bundle=Bundle[{}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, referenceArg=androidx.navigation.NavArgument@4080d037}, bundle=Bundle[{customArg=custom}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, referenceArg=androidx.navigation.NavArgument@4080d037}, bundle=Bundle[{stringArg=bbb}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.002' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, stringArrayArg=androidx.navigation.NavArgument@fc73f8e0}, bundle=Bundle[{}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.001' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, stringArrayArg=androidx.navigation.NavArgument@fc73f8e0}, bundle=Bundle[{customArg=custom}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.0' />
+  <testcase name='addInDefaultArgs[arguments={stringArg=androidx.navigation.NavArgument@5fdd9119, stringArrayArg=androidx.navigation.NavArgument@fc73f8e0}, bundle=Bundle[{stringArg=bbb}]]' classname='androidx.navigation.AddInDefaultArgsTest' time='0.001' />
+  <testcase name='putDefaultValue' classname='androidx.navigation.NavArgumentTest' time='0.0' />
+  <testcase name='verify' classname='androidx.navigation.NavArgumentTest' time='0.0' />
+  <testcase name='deepLinkActionMatchNullUri' classname='androidx.navigation.NavDeepLinkActionTest' time='0.001' />
+  <testcase name='deepLinkActionNoMatch' classname='androidx.navigation.NavDeepLinkActionTest' time='0.008' />
+  <testcase name='deepLinkEmptySetAction' classname='androidx.navigation.NavDeepLinkActionTest' time='0.002' />
+  <testcase name='deepLinkActionNoMatchDifferent' classname='androidx.navigation.NavDeepLinkActionTest' time='0.001' />
+  <testcase name='deepLinkActionMatch' classname='androidx.navigation.NavDeepLinkActionTest' time='0.002' />
+  <testcase name='deepLinkEmptyFromAction' classname='androidx.navigation.NavDeepLinkActionTest' time='0.001' />
+  <testcase name='buildDeepLinkEmptyAction' classname='androidx.navigation.NavDeepLinkBuilderTest' time='0.002' />
+  <testcase name='buildDeepLinkAllSet' classname='androidx.navigation.NavDeepLinkBuilderTest' time='0.01' />
+  <testcase name='buildDeepLinkNoneSet' classname='androidx.navigation.NavDeepLinkBuilderTest' time='0.001' />
+  <testcase name='buildDeepLinkDoubleActionSetNull' classname='androidx.navigation.NavDeepLinkBuilderTest' time='0.002' />
+  <testcase name='deepLinkMimeTypeMatchTypeRequestWildCard' classname='androidx.navigation.NavDeepLinkMimeTypeTest' time='0.001' />
+  <testcase name='deepLinkMimeTypeMatchRequestWildCard' classname='androidx.navigation.NavDeepLinkMimeTypeTest' time='0.001' />
+  <testcase name='deepLinkMimeTypeMatchSubtypeDeepLinkWildCard' classname='androidx.navigation.NavDeepLinkMimeTypeTest' time='0.003' />
+  <testcase name='deepLinkMimeTypeMatchDeepLinkWildCard' classname='androidx.navigation.NavDeepLinkMimeTypeTest' time='0.003' />
+  <testcase name='deepLinkInvalidMimeType' classname='androidx.navigation.NavDeepLinkMimeTypeTest' time='0.001' />
+  <testcase name='deepLinkMimeTypeMatchWithUri' classname='androidx.navigation.NavDeepLinkMimeTypeTest' time='0.002' />
+  <testcase name='deepLinkMimeTypeMatch' classname='androidx.navigation.NavDeepLinkMimeTypeTest' time='0.003' />
+  <testcase name='deepLinkMimeTypeMatchSubtypeRequestWildCard' classname='androidx.navigation.NavDeepLinkMimeTypeTest' time='0.002' />
+  <testcase name='deepLinkMimeTypeMatchTypeDeepLinkWildCard' classname='androidx.navigation.NavDeepLinkMimeTypeTest' time='0.005' />
+  <testcase name='deepLinkQueryParamDefaultArgumentWithWildCardOnly' classname='androidx.navigation.NavDeepLinkTest' time='0.005' />
+  <testcase name='deepLinkArgumentMatchEncoded' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkNoUriNoMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkMultipleArgumentMatchQuestionMarkNoParams' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkArgumentMatchWithQueryParams' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryNullableParamArgumentMatchOnlyPartOfParam' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkMultiCharacterArgumentMatchWithQueryParams' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkMissingOptionalArgument' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamArgumentWithWildCard' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamMultipleArgumentMatchOptionalNullable' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamArgumentWithRegex' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkArgumentInvalidMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkExactMatchNoScheme' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkMultipleArgumentMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkExactMatchWithPeriods' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamDefaultArgumentWithRegexOnly' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryNullableParamArgumentMatchMultiArgsOneParam' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkArgumentMatchWithoutArguments' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamDefaultArgumentWithWildCard' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkMultipleMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkQueryNullableParamArgumentMatchDifferentParamName' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamDefaultArgumentWithRegex' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkQueryParamArgumentMatchExtraParamOptionalDefault' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkEmptyArgumentNoMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamArgumentMatchExtraParamOptionalNullable' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryDefaultParamArgumentMatchOnlyPartOfParam' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamArgumentWithStarInFront' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamArgumentMatchOnlyPartOfParam' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkQueryParamArgumentWithStarInBack' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkArgumentMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamArgumentMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamArgumentMatchMultiArgsOneParam' classname='androidx.navigation.NavDeepLinkTest' time='0.007' />
+  <testcase name='deepLinkPrefixMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkNullableArgumentNotRequired' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamNullableArgumentMatchParamsInBraces' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkCaseSensitiveQueryParams' classname='androidx.navigation.NavDeepLinkTest' time='0.001' />
+  <testcase name='deepLinkQueryDefaultParamArgumentMatchMultiArgsOneParam' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamArgumentMatchExtraParam' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkQueryParamMultipleArgumentReverseMatchOptionalDefault' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamArgumentMatchPathParamCorrectly' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkExactMatchWithHyphens' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkMissingRequiredArgument' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkExactMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryDefaultParamArgumentMatchDifferentParamName' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkWildcardMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkExactMatchWithPlus' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamDefaultArgumentMatchParamsInBraces' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamDefaultArgumentMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamMultipleArgumentMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkMultiCharacterArgumentMiddleMatchWithQueryParams' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamMultipleArgumentMatchOptionalDefault' classname='androidx.navigation.NavDeepLinkTest' time='0.004' />
+  <testcase name='deepLinkWildcardBeforeArgumentMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkArgumentDoesNotCrossPoundSign' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamNullableArgumentWithWildCard' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkCaseInsensitivePath' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkQueryParamArgumentInvalidMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamNullableArgumentMatch' classname='androidx.navigation.NavDeepLinkTest' time='0.006' />
+  <testcase name='deepLinkQueryParamArgumentMatchDifferentParamName' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamNullableArgumentWithRegex' classname='androidx.navigation.NavDeepLinkTest' time='0.002' />
+  <testcase name='deepLinkCaseInsensitiveDomainWithPath' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamOneDefaultArgumentMatchMultiArgsOneParam' classname='androidx.navigation.NavDeepLinkTest' time='0.003' />
+  <testcase name='deepLinkQueryParamArgumentIgnoreExtraParams' classname='androidx.navigation.NavDeepLinkTest' time='0.001' />
+  <testcase name='matchDeepLinkWithNonMatchingQueryParams' classname='androidx.navigation.NavDestinationAndroidTest' time='0.003' />
+  <testcase name='matchDeepLinkBestMatchExactWithQuery' classname='androidx.navigation.NavDestinationAndroidTest' time='0.004' />
+  <testcase name='testIsValidDeepLinkValidLinkExact' classname='androidx.navigation.NavDestinationAndroidTest' time='0.002' />
+  <testcase name='matchDeepLinkBestMatchPathTail' classname='androidx.navigation.NavDestinationAndroidTest' time='0.002' />
+  <testcase name='equalsDifferentDeepLink' classname='androidx.navigation.NavDestinationAndroidTest' time='0.007' />
+  <testcase name='setNullRoute' classname='androidx.navigation.NavDestinationAndroidTest' time='0.002' />
+  <testcase name='testIsValidDeepLinkValidLinkPattern' classname='androidx.navigation.NavDestinationAndroidTest' time='0.002' />
+  <testcase name='equals' classname='androidx.navigation.NavDestinationAndroidTest' time='0.002' />
+  <testcase name='testIsValidDeepLinkInvalidLink' classname='androidx.navigation.NavDestinationAndroidTest' time='0.001' />
+  <testcase name='matchDeepLinkBestMatchExact' classname='androidx.navigation.NavDestinationAndroidTest' time='0.002' />
+  <testcase name='matchDotStar' classname='androidx.navigation.NavDestinationAndroidTest' time='0.002' />
+  <testcase name='matchDeepLinkWithQueryParams' classname='androidx.navigation.NavDestinationAndroidTest' time='0.003' />
+  <testcase name='matchDeepLink' classname='androidx.navigation.NavDestinationAndroidTest' time='0.003' />
+  <testcase name='setRouteChangesId' classname='androidx.navigation.NavDestinationAndroidTest' time='0.002' />
+  <testcase name='setIdKeepsRoute' classname='androidx.navigation.NavDestinationAndroidTest' time='0.001' />
+  <testcase name='matchDeepLinkBestMatch' classname='androidx.navigation.NavDestinationAndroidTest' time='0.003' />
+  <testcase name='matchDeepLinkBestMimeType' classname='androidx.navigation.NavDestinationAndroidTest' time='0.003' />
+  <testcase name='setBlankRoute' classname='androidx.navigation.NavDestinationAndroidTest' time='0.001' />
+  <testcase name='addInDefaultArgsWrong' classname='androidx.navigation.NavDestinationAndroidTest' time='0.002' />
+  <testcase name='equalsNull' classname='androidx.navigation.NavDestinationAndroidTest' time='0.005' />
+  <testcase name='equalsDifferentArgumentValues' classname='androidx.navigation.NavDestinationAndroidTest' time='0.003' />
+  <testcase name='addDeepLinkNullableArgumentNotRequired' classname='androidx.navigation.NavDestinationAndroidTest' time='0.003' />
+  <testcase name='testRouteCreatesValidDeepLink' classname='androidx.navigation.NavDestinationAndroidTest' time='0.003' />
+  <testcase name='addInDefaultArgs' classname='androidx.navigation.NavDestinationAndroidTest' time='0.003' />
+  <testcase name='testIsValidDeepLinkInvalidLinkPathTail' classname='androidx.navigation.NavDestinationAndroidTest' time='0.003' />
+  <testcase name='navDestinationDefaultArgumentsInferred' classname='androidx.navigation.NavDestinationTest' time='0.004' />
+  <testcase name='navDestination' classname='androidx.navigation.NavDestinationTest' time='0.002' />
+  <testcase name='navDestinationLabel' classname='androidx.navigation.NavDestinationTest' time='0.002' />
+  <testcase name='navDestinationRoute' classname='androidx.navigation.NavDestinationTest' time='0.003' />
+  <testcase name='navDestinationDefaultArguments' classname='androidx.navigation.NavDestinationTest' time='0.003' />
+  <testcase name='navDestinationAction' classname='androidx.navigation.NavDestinationTest' time='0.004' />
+  <testcase name='matchDeepLinkBestMatchChildren' classname='androidx.navigation.NavGraphAndroidTest' time='0.034' />
+  <testcase name='toStringStartDestInNodes' classname='androidx.navigation.NavGraphAndroidTest' time='0.002' />
+  <testcase name='matchDeepLinkBestMatchExact' classname='androidx.navigation.NavGraphAndroidTest' time='0.003' />
+  <testcase name='matchDotStar' classname='androidx.navigation.NavGraphAndroidTest' time='0.001' />
+  <testcase name='matchDeepLink' classname='androidx.navigation.NavGraphAndroidTest' time='0.001' />
+  <testcase name='toStringStartDestInNodesRoute' classname='androidx.navigation.NavGraphAndroidTest' time='0.005' />
+  <testcase name='toStringStartDestIdOnly' classname='androidx.navigation.NavGraphAndroidTest' time='0.002' />
+  <testcase name='toStringStartDestInNodesRouteWithStartDestID' classname='androidx.navigation.NavGraphAndroidTest' time='0.003' />
+  <testcase name='matchDeepLinkBestMatch' classname='androidx.navigation.NavGraphAndroidTest' time='0.013' />
+  <testcase name='matchDeepLinkBestMatchPathAndQuery' classname='androidx.navigation.NavGraphAndroidTest' time='0.005' />
+  <testcase name='toStringStartDestInNodesRouteWithID' classname='androidx.navigation.NavGraphAndroidTest' time='0.003' />
+  <testcase name='toStringStartDestRouteOnly' classname='androidx.navigation.NavGraphAndroidTest' time='0.003' />
+  <testcase name='navigationUnaryPlusRoute' classname='androidx.navigation.NavGraphBuilderTest' time='0.003' />
+  <testcase name='navigationNestedRoute' classname='androidx.navigation.NavGraphBuilderTest' time='0.003' />
+  <testcase name='navigationUnaryPlus' classname='androidx.navigation.NavGraphBuilderTest' time='0.002' />
+  <testcase name='navigationAddDestination' classname='androidx.navigation.NavGraphBuilderTest' time='0.002' />
+  <testcase name='navigationAddDestinationRoute' classname='androidx.navigation.NavGraphBuilderTest' time='0.002' />
+  <testcase name='navigationRoute' classname='androidx.navigation.NavGraphBuilderTest' time='0.002' />
+  <testcase name='navigationNested' classname='androidx.navigation.NavGraphBuilderTest' time='0.004' />
+  <testcase name='navigationMissingStartDestinationRoute' classname='androidx.navigation.NavGraphBuilderTest' time='0.003' />
+  <testcase name='navigation' classname='androidx.navigation.NavGraphBuilderTest' time='0.002' />
+  <testcase name='navigationMissingStartDestination' classname='androidx.navigation.NavGraphBuilderTest' time='0.003' />
+  <testcase name='plusAssignGraph' classname='androidx.navigation.NavGraphTest' time='0.002' />
+  <testcase name='minusAssign' classname='androidx.navigation.NavGraphTest' time='0.002' />
+  <testcase name='getIllegalArgumentException' classname='androidx.navigation.NavGraphTest' time='0.004' />
+  <testcase name='plusAssign' classname='androidx.navigation.NavGraphTest' time='0.002' />
+  <testcase name='plusAssignGraphRoute' classname='androidx.navigation.NavGraphTest' time='0.002' />
+  <testcase name='popUpToRoute' classname='androidx.navigation.NavOptionsTest' time='0.004' />
+  <testcase name='popUpToRouteInclusive' classname='androidx.navigation.NavOptionsTest' time='0.002' />
+  <testcase name='launchSingleTop' classname='androidx.navigation.NavOptionsTest' time='0.002' />
+  <testcase name='popUpTo' classname='androidx.navigation.NavOptionsTest' time='0.002' />
+  <testcase name='anim' classname='androidx.navigation.NavOptionsTest' time='0.004' />
+  <testcase name='popUpToBuilder' classname='androidx.navigation.NavOptionsTest' time='0.003' />
+  <testcase name='restoreState' classname='androidx.navigation.NavOptionsTest' time='0.002' />
+  <testcase name='inferFromValueType' classname='androidx.navigation.NavTypeTest' time='0.002' />
+  <testcase name='fromArgType' classname='androidx.navigation.NavTypeTest' time='0.003' />
+  <testcase name='parseValueWithHex' classname='androidx.navigation.NavTypeTest' time='0.002' />
+  <testcase name='putAndGetFromBundle' classname='androidx.navigation.NavTypeTest' time='0.004' />
+  <testcase name='inferFromValue' classname='androidx.navigation.NavTypeTest' time='0.002' />
+  <testcase name='parseEnumValue' classname='androidx.navigation.NavTypeTest' time='0.002' />
+</testsuite>

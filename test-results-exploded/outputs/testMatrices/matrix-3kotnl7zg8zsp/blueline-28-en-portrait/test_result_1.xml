@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite name='' hostname='localhost' tests='6' failures='0' skipped='0' errors='0' time='0.067' timestamp='2021-11-16T09:56:33'>
+  <properties />
+  <testcase name='testSetFallbackOnNavigateUpListener' classname='androidx.navigation.ui.AppBarConfigurationTest' time='0.019' />
+  <testcase name='testTopLevelFromVarargs' classname='androidx.navigation.ui.AppBarConfigurationTest' time='0.001' />
+  <testcase name='testSetOpenableLayout' classname='androidx.navigation.ui.AppBarConfigurationTest' time='0.001' />
+  <testcase name='testTopLevelFromGraph' classname='androidx.navigation.ui.AppBarConfigurationTest' time='0.009' />
+  <testcase name='testTopLevelFromSet' classname='androidx.navigation.ui.AppBarConfigurationTest' time='0.034' />
+  <testcase name='matchDestinationsTest' classname='androidx.navigation.ui.NavigationUITest' time='0.003' />
+</testsuite>

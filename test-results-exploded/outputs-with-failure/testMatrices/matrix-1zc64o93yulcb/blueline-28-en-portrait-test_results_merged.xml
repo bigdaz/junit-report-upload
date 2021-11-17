@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="" tests="11" failures="0" flakes="0" errors="0" skipped="0" time="0.494" hostname="localhost">
+  <testcase name="vmInitialization" classname="androidx.activity.ActivityViewModelLazyTest" time="0.236" />
+  <testcase name="testIsEnabledWithinCallback" classname="androidx.activity.OnBackPressedDispatcherTest" time="0.004" />
+  <testcase name="testRegisterCallback" classname="androidx.activity.OnBackPressedDispatcherTest" time="0.004" />
+  <testcase name="testLifecycleCallback" classname="androidx.activity.OnBackPressedDispatcherTest" time="0.046" />
+  <testcase name="testRegisterDisabledCallback" classname="androidx.activity.OnBackPressedDispatcherTest" time="0.002" />
+  <testcase name="testRemoveWithinCallback" classname="androidx.activity.OnBackPressedDispatcherTest" time="0.002" />
+  <testcase name="alreadyAvailable" classname="androidx.activity.contextaware.ContextAwareTest" time="0.005" />
+  <testcase name="suspending" classname="androidx.activity.contextaware.ContextAwareTest" time="0.013" />
+  <testcase name="getContractTest" classname="androidx.activity.result.ActivityResultCallerTest" time="0.172" />
+  <testcase name="testUnitLaunch" classname="androidx.activity.result.ActivityResultLauncherTest" time="0.004" />
+  <testcase name="testDestructure" classname="androidx.activity.result.ActivityResultTest" time="0.006" />
+</testsuite>

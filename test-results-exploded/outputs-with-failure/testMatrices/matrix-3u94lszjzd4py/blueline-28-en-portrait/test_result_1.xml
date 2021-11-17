@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite name='' hostname='localhost' tests='16' failures='0' skipped='0' errors='0' time='2.624' timestamp='2021-11-16T08:57:38'>
+  <properties />
+  <testcase name='throwException' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.042' />
+  <testcase name='destroyWhileRunning' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.011' />
+  <testcase name='simpleLaunch' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.003' />
+  <testcase name='runAnotherAfterFailure' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.007' />
+  <testcase name='throwException_onStart' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.004' />
+  <testcase name='launchAfterDestroy' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.005' />
+  <testcase name='runAnotherAfterCancellation_cancelOutside' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.006' />
+  <testcase name='runAnotherAfterCancellation_cancelInside' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.006' />
+  <testcase name='launchOnIO' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.005' />
+  <testcase name='launchOnMain' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.003' />
+  <testcase name='initialization' classname='androidx.lifecycle.LifecycleCoroutineScopeAndroidTest' time='0.004' />
+  <testcase name='alreadyDestroyed' classname='androidx.lifecycle.LifecycleScopeIntegrationTest' time='0.944' />
+  <testcase name='alreadyResumed' classname='androidx.lifecycle.LifecycleScopeIntegrationTest' time='0.408' />
+  <testcase name='destroyedWhileRunning' classname='androidx.lifecycle.LifecycleScopeIntegrationTest' time='0.474' />
+  <testcase name='startOnMainThread' classname='androidx.lifecycle.LifecycleScopeIntegrationTest' time='0.382' />
+  <testcase name='createdState' classname='androidx.lifecycle.LifecycleScopeIntegrationTest' time='0.32' />
+</testsuite>

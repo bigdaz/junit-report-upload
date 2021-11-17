@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite name='' hostname='localhost' tests='3' failures='0' skipped='0' errors='0' time='0.016' timestamp='2021-11-16T08:57:25'>
+  <properties />
+  <testcase name='testThreadTest' classname='androidx.lifecycle.testing.TestLifecycleOwnerAndroidTest' time='0.014' />
+  <testcase name='testHandleLifecycleEvent' classname='androidx.lifecycle.testing.TestLifecycleOwnerAndroidTest' time='0.001' />
+  <testcase name='uiThreadTest' classname='androidx.lifecycle.testing.TestLifecycleOwnerAndroidTest' time='0.001' />
+</testsuite>

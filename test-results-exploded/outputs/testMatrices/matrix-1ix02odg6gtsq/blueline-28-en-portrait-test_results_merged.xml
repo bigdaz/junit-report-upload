@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="" tests="4" failures="0" flakes="0" errors="0" skipped="0" time="0.015" hostname="localhost">
+  <testcase name="testRoute" classname="androidx.testutils.TestNavigatorDestinationBuilderTest" time="0.011" />
+  <testcase name="testWithBody" classname="androidx.testutils.TestNavigatorDestinationBuilderTest" time="0.0" />
+  <testcase name="test" classname="androidx.testutils.TestNavigatorDestinationBuilderTest" time="0.002" />
+  <testcase name="testRouteWithBody" classname="androidx.testutils.TestNavigatorDestinationBuilderTest" time="0.002" />
+</testsuite>

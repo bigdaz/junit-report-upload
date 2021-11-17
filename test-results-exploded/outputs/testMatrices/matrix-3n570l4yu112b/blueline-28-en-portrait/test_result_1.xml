@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite name='' hostname='localhost' tests='14' failures='0' skipped='0' errors='0' time='5.592' timestamp='2021-11-16T08:56:54'>
+  <properties />
+  <testcase name='testLaunchWithSameContract' classname='androidx.activity.compose.ActivityResultRegistryTest' time='0.851' />
+  <testcase name='testRecomposeAfterLaunch' classname='androidx.activity.compose.ActivityResultRegistryTest' time='0.496' />
+  <testcase name='testLaunchAfterRestoration' classname='androidx.activity.compose.ActivityResultRegistryTest' time='0.636' />
+  <testcase name='testUnregister' classname='androidx.activity.compose.ActivityResultRegistryTest' time='0.316' />
+  <testcase name='testGetContract' classname='androidx.activity.compose.ActivityResultRegistryTest' time='0.277' />
+  <testcase name='testLaunch' classname='androidx.activity.compose.ActivityResultRegistryTest' time='0.309' />
+  <testcase name='testRecomposeBeforeLaunch' classname='androidx.activity.compose.ActivityResultRegistryTest' time='0.29' />
+  <testcase name='testBackHandler' classname='androidx.activity.compose.BackHandlerTest' time='0.384' />
+  <testcase name='testBackHandlerLifecycle' classname='androidx.activity.compose.BackHandlerTest' time='0.374' />
+  <testcase name='testBackHandlerDisabledChild' classname='androidx.activity.compose.BackHandlerTest' time='0.343' />
+  <testcase name='testBackHandlerOnBackChanged' classname='androidx.activity.compose.BackHandlerTest' time='0.396' />
+  <testcase name='testGetBackPressedDispatcherProviders' classname='androidx.activity.compose.BackPressedDispatcherOwnerTest' time='0.295' />
+  <testcase name='testBackHandler' classname='androidx.activity.compose.BackPressedDispatcherOwnerTest' time='0.333' />
+  <testcase name='testGetBackPressedDispatcher' classname='androidx.activity.compose.BackPressedDispatcherOwnerTest' time='0.292' />
+</testsuite>

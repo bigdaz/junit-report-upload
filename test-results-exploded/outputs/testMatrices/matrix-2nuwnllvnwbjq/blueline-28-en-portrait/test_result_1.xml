@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite name='' hostname='localhost' tests='43' failures='0' skipped='0' errors='0' time='4.185' timestamp='2021-11-16T08:56:48'>
+  <properties />
+  <testcase name='test[1]' classname='androidx.testutils.ActivityNoPersist' time='0.467' />
+  <testcase name='test[2]' classname='androidx.testutils.ActivityNoPersist' time='0.383' />
+  <testcase name='test[3]' classname='androidx.testutils.ActivityNoPersist' time='0.381' />
+  <testcase name='test[4]' classname='androidx.testutils.ActivityNoPersist' time='0.385' />
+  <testcase name='test[5]' classname='androidx.testutils.ActivityNoPersist' time='0.378' />
+  <testcase name='test[6]' classname='androidx.testutils.ActivityNoPersist' time='0.39' />
+  <testcase name='test[7]' classname='androidx.testutils.ActivityNoPersist' time='0.337' />
+  <testcase name='test[8]' classname='androidx.testutils.ActivityNoPersist' time='0.361' />
+  <testcase name='test[9]' classname='androidx.testutils.ActivityNoPersist' time='0.354' />
+  <testcase name='test[10]' classname='androidx.testutils.ActivityNoPersist' time='0.302' />
+  <testcase name='test[1]' classname='androidx.testutils.ActivityPersist' time='0.031' />
+  <testcase name='test[2]' classname='androidx.testutils.ActivityPersist' time='0.003' />
+  <testcase name='test[3]' classname='androidx.testutils.ActivityPersist' time='0.004' />
+  <testcase name='test[4]' classname='androidx.testutils.ActivityPersist' time='0.003' />
+  <testcase name='test[5]' classname='androidx.testutils.ActivityPersist' time='0.003' />
+  <testcase name='test[6]' classname='androidx.testutils.ActivityPersist' time='0.013' />
+  <testcase name='test[7]' classname='androidx.testutils.ActivityPersist' time='0.003' />
+  <testcase name='test[8]' classname='androidx.testutils.ActivityPersist' time='0.003' />
+  <testcase name='test[9]' classname='androidx.testutils.ActivityPersist' time='0.003' />
+  <testcase name='test[10]' classname='androidx.testutils.ActivityPersist' time='0.002' />
+  <testcase name='contentViewIsShared[1]' classname='androidx.testutils.ActivityPersistNoReset' time='0.028' />
+  <testcase name='contentViewIsShared[2]' classname='androidx.testutils.ActivityPersistNoReset' time='0.008' />
+  <testcase name='contentViewIsShared[3]' classname='androidx.testutils.ActivityPersistNoReset' time='0.004' />
+  <testcase name='contentViewIsShared[4]' classname='androidx.testutils.ActivityPersistNoReset' time='0.004' />
+  <testcase name='contentViewIsShared[5]' classname='androidx.testutils.ActivityPersistNoReset' time='0.003' />
+  <testcase name='contentViewIsShared[6]' classname='androidx.testutils.ActivityPersistNoReset' time='0.005' />
+  <testcase name='contentViewIsShared[7]' classname='androidx.testutils.ActivityPersistNoReset' time='0.005' />
+  <testcase name='contentViewIsShared[8]' classname='androidx.testutils.ActivityPersistNoReset' time='0.005' />
+  <testcase name='contentViewIsShared[9]' classname='androidx.testutils.ActivityPersistNoReset' time='0.004' />
+  <testcase name='contentViewIsShared[10]' classname='androidx.testutils.ActivityPersistNoReset' time='0.005' />
+  <testcase name='contentViewIsReplaced[1]' classname='androidx.testutils.ActivityPersistWithReset' time='0.048' />
+  <testcase name='contentViewIsReplaced[2]' classname='androidx.testutils.ActivityPersistWithReset' time='0.036' />
+  <testcase name='contentViewIsReplaced[3]' classname='androidx.testutils.ActivityPersistWithReset' time='0.017' />
+  <testcase name='contentViewIsReplaced[4]' classname='androidx.testutils.ActivityPersistWithReset' time='0.019' />
+  <testcase name='contentViewIsReplaced[5]' classname='androidx.testutils.ActivityPersistWithReset' time='0.018' />
+  <testcase name='contentViewIsReplaced[6]' classname='androidx.testutils.ActivityPersistWithReset' time='0.019' />
+  <testcase name='contentViewIsReplaced[7]' classname='androidx.testutils.ActivityPersistWithReset' time='0.017' />
+  <testcase name='contentViewIsReplaced[8]' classname='androidx.testutils.ActivityPersistWithReset' time='0.017' />
+  <testcase name='contentViewIsReplaced[9]' classname='androidx.testutils.ActivityPersistWithReset' time='0.035' />
+  <testcase name='contentViewIsReplaced[10]' classname='androidx.testutils.ActivityPersistWithReset' time='0.017' />
+  <testcase name='test_ltrRtlLanguagesExist' classname='androidx.testutils.LocaleTestUtilsTest' time='0.049' />
+  <testcase name='test_defaultValues' classname='androidx.testutils.LocaleTestUtilsTest' time='0.002' />
+  <testcase name='test_setAndResetLocale' classname='androidx.testutils.LocaleTestUtilsTest' time='0.014' />
+</testsuite>

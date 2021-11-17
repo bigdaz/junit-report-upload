@@ -1,0 +1,396 @@
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+androidx.test.screenshot.MSSIMMatcherTest:
+INSTRUMENTATION_STATUS: test=performDiff_fullscreen_checkboxes_differentRadius
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=performDiff_fullscreen_checkboxes_differentRadius
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_fullscreen_movedToRight
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=performDiff_fullscreen_movedToRight
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_sameBitmaps
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=performDiff_sameBitmaps
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_differentBorders_dark
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=performDiff_differentBorders_dark
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_fullscreen_differentBorders_dark
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=performDiff_fullscreen_differentBorders_dark
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_checkedAgainstUnchecked
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=performDiff_checkedAgainstUnchecked
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=7
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_differentBorders
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.MSSIMMatcherTest
+INSTRUMENTATION_STATUS: current=7
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=performDiff_differentBorders
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.PixelPerfectMatcherTest
+INSTRUMENTATION_STATUS: current=8
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+androidx.test.screenshot.PixelPerfectMatcherTest:
+INSTRUMENTATION_STATUS: test=performDiff_sameBitmaps
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.PixelPerfectMatcherTest
+INSTRUMENTATION_STATUS: current=8
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=performDiff_sameBitmaps
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.PixelPerfectMatcherTest
+INSTRUMENTATION_STATUS: current=9
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_sameSize_differentBorders
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.PixelPerfectMatcherTest
+INSTRUMENTATION_STATUS: current=9
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=performDiff_sameSize_differentBorders
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=10
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+androidx.test.screenshot.ScreenshotTestRuleTest:
+INSTRUMENTATION_STATUS: test=performDiff_sameSizes_pixelPerfect_noMatch
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=10
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stack=org.junit.AssumptionViolatedException: Requires Cuttlefish
+	at org.junit.Assume.assumeTrue(Assume.java:59)
+	at androidx.test.screenshot.ScreenshotTestRule$ScreenshotTestStatement.evaluate(ScreenshotTestRule.kt:121)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2145)
+
+INSTRUMENTATION_STATUS: stream=
+androidx.test.screenshot.ScreenshotTestRuleTest:
+INSTRUMENTATION_STATUS: test=performDiff_sameSizes_pixelPerfect_noMatch
+INSTRUMENTATION_STATUS_CODE: -4
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=11
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_incorrectGoldenName
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=11
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stack=org.junit.AssumptionViolatedException: Requires Cuttlefish
+	at org.junit.Assume.assumeTrue(Assume.java:59)
+	at androidx.test.screenshot.ScreenshotTestRule$ScreenshotTestStatement.evaluate(ScreenshotTestRule.kt:121)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2145)
+
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_incorrectGoldenName
+INSTRUMENTATION_STATUS_CODE: -4
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=12
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_sameSizes_default_noMatch
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=12
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stack=org.junit.AssumptionViolatedException: Requires Cuttlefish
+	at org.junit.Assume.assumeTrue(Assume.java:59)
+	at androidx.test.screenshot.ScreenshotTestRule$ScreenshotTestStatement.evaluate(ScreenshotTestRule.kt:121)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2145)
+
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_sameSizes_default_noMatch
+INSTRUMENTATION_STATUS_CODE: -4
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=13
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_sameBitmaps
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=13
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stack=org.junit.AssumptionViolatedException: Requires Cuttlefish
+	at org.junit.Assume.assumeTrue(Assume.java:59)
+	at androidx.test.screenshot.ScreenshotTestRule$ScreenshotTestStatement.evaluate(ScreenshotTestRule.kt:121)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2145)
+
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_sameBitmaps
+INSTRUMENTATION_STATUS_CODE: -4
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=14
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_differentSizes
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=14
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stack=org.junit.AssumptionViolatedException: Requires Cuttlefish
+	at org.junit.Assume.assumeTrue(Assume.java:59)
+	at androidx.test.screenshot.ScreenshotTestRule$ScreenshotTestStatement.evaluate(ScreenshotTestRule.kt:121)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2145)
+
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_differentSizes
+INSTRUMENTATION_STATUS_CODE: -4
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=15
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_missingGolden
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=androidx.test.screenshot.ScreenshotTestRuleTest
+INSTRUMENTATION_STATUS: current=15
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=15
+INSTRUMENTATION_STATUS: stack=org.junit.AssumptionViolatedException: Requires Cuttlefish
+	at org.junit.Assume.assumeTrue(Assume.java:59)
+	at androidx.test.screenshot.ScreenshotTestRule$ScreenshotTestStatement.evaluate(ScreenshotTestRule.kt:121)
+	at org.junit.rules.TestWatcher$1.evaluate(TestWatcher.java:55)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2145)
+
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=performDiff_missingGolden
+INSTRUMENTATION_STATUS_CODE: -4
+INSTRUMENTATION_RESULT: stream=
+
+Time: 0.278
+
+OK (15 tests)
+
+
+INSTRUMENTATION_CODE: -1

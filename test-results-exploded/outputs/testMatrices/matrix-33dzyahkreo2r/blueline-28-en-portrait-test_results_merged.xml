@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="" tests="19" failures="0" flakes="0" errors="0" skipped="0" time="6.916" hostname="localhost">
+  <testcase name="testFullLifecycle[0]" classname="androidx.lifecycle.ActivityFullLifecycleTest" time="0.544" />
+  <testcase name="testFullLifecycle[1]" classname="androidx.lifecycle.ActivityFullLifecycleTest" time="0.344" />
+  <testcase name="test" classname="androidx.lifecycle.FragmentInBackStackLifecycleTest" time="0.277" />
+  <testcase name="liveData_partiallyObscuredActivityFragmentInFragment_minSdkN" classname="androidx.lifecycle.LiveDataOnSaveInstanceStateTest" time="0.216" />
+  <testcase name="liveData_partiallyObscuredActivity_minSdkN" classname="androidx.lifecycle.LiveDataOnSaveInstanceStateTest" time="0.205" />
+  <testcase name="liveData_partiallyObscuredActivityWithFragment_minSdkN" classname="androidx.lifecycle.LiveDataOnSaveInstanceStateTest" time="0.214" />
+  <testcase name="coveredWithDialog_childFragment[dismissDialog_true]" classname="androidx.lifecycle.PartiallyCoveredActivityTest" time="0.289" />
+  <testcase name="coveredWithDialog_activity[dismissDialog_true]" classname="androidx.lifecycle.PartiallyCoveredActivityTest" time="0.248" />
+  <testcase name="coveredWithDialog_fragment[dismissDialog_true]" classname="androidx.lifecycle.PartiallyCoveredActivityTest" time="0.25" />
+  <testcase name="coveredWithDialog_childFragment[dismissDialog_false]" classname="androidx.lifecycle.PartiallyCoveredActivityTest" time="0.178" />
+  <testcase name="coveredWithDialog_activity[dismissDialog_false]" classname="androidx.lifecycle.PartiallyCoveredActivityTest" time="0.208" />
+  <testcase name="coveredWithDialog_fragment[dismissDialog_false]" classname="androidx.lifecycle.PartiallyCoveredActivityTest" time="0.206" />
+  <testcase name="testRecreation" classname="androidx.lifecycle.ProcessOwnerTest" time="0.167" />
+  <testcase name="testPressHomeButton" classname="androidx.lifecycle.ProcessOwnerTest" time="0.969" />
+  <testcase name="testNavigationToNonSupport" classname="androidx.lifecycle.ProcessOwnerTest" time="0.186" />
+  <testcase name="testNavigation" classname="androidx.lifecycle.ProcessOwnerTest" time="0.205" />
+  <testcase name="testFullLifecycle" classname="androidx.lifecycle.SimpleAppFullLifecycleTest" time="2.164" />
+  <testcase name="testOnDestroyCall" classname="androidx.lifecycle.SynchronousActivityLifecycleTest" time="0.032" />
+  <testcase name="testOnCreateCall" classname="androidx.lifecycle.SynchronousActivityLifecycleTest" time="0.013" />
+</testsuite>

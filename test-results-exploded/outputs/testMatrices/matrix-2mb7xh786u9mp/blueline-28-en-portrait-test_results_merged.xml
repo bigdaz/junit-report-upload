@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="" tests="15" failures="0" flakes="0" errors="0" skipped="6" time="0.203" hostname="localhost">
+  <testcase name="performDiff_sameSizes_pixelPerfect_noMatch" classname="androidx.test.screenshot.ScreenshotTestRuleTest" time="0.01">
+    <skipped />
+  </testcase>
+  <testcase name="performDiff_incorrectGoldenName" classname="androidx.test.screenshot.ScreenshotTestRuleTest" time="0.006">
+    <skipped />
+  </testcase>
+  <testcase name="performDiff_sameSizes_default_noMatch" classname="androidx.test.screenshot.ScreenshotTestRuleTest" time="0.007">
+    <skipped />
+  </testcase>
+  <testcase name="performDiff_sameBitmaps" classname="androidx.test.screenshot.ScreenshotTestRuleTest" time="0.009">
+    <skipped />
+  </testcase>
+  <testcase name="performDiff_differentSizes" classname="androidx.test.screenshot.ScreenshotTestRuleTest" time="0.006">
+    <skipped />
+  </testcase>
+  <testcase name="performDiff_missingGolden" classname="androidx.test.screenshot.ScreenshotTestRuleTest" time="0.002">
+    <skipped />
+  </testcase>
+  <testcase name="performDiff_fullscreen_checkboxes_differentRadius" classname="androidx.test.screenshot.MSSIMMatcherTest" time="0.063" />
+  <testcase name="performDiff_fullscreen_movedToRight" classname="androidx.test.screenshot.MSSIMMatcherTest" time="0.026" />
+  <testcase name="performDiff_sameBitmaps" classname="androidx.test.screenshot.MSSIMMatcherTest" time="0.004" />
+  <testcase name="performDiff_differentBorders_dark" classname="androidx.test.screenshot.MSSIMMatcherTest" time="0.003" />
+  <testcase name="performDiff_fullscreen_differentBorders_dark" classname="androidx.test.screenshot.MSSIMMatcherTest" time="0.053" />
+  <testcase name="performDiff_checkedAgainstUnchecked" classname="androidx.test.screenshot.MSSIMMatcherTest" time="0.004" />
+  <testcase name="performDiff_differentBorders" classname="androidx.test.screenshot.MSSIMMatcherTest" time="0.003" />
+  <testcase name="performDiff_sameBitmaps" classname="androidx.test.screenshot.PixelPerfectMatcherTest" time="0.003" />
+  <testcase name="performDiff_sameSize_differentBorders" classname="androidx.test.screenshot.PixelPerfectMatcherTest" time="0.004" />
+</testsuite>

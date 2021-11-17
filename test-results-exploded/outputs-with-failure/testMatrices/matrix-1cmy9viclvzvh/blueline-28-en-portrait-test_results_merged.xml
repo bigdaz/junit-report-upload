@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="" tests="4" failures="0" flakes="0" errors="0" skipped="0" time="0.848" hostname="localhost">
+  <testcase name="testViewModelProvidersWithCustomFactoryActivity" classname="androidx.lifecycle.ViewModelProvidersFragmentTest" time="0.233" />
+  <testcase name="testViewModelProvidersWithCustomFactoryFragment" classname="androidx.lifecycle.ViewModelProvidersFragmentTest" time="0.236" />
+  <testcase name="testViewModelProvidersActivity" classname="androidx.lifecycle.ViewModelProvidersFragmentTest" time="0.164" />
+  <testcase name="testViewModelProvidersFragment" classname="androidx.lifecycle.ViewModelProvidersFragmentTest" time="0.215" />
+</testsuite>

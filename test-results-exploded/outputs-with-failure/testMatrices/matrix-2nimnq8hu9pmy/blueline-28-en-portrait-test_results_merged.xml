@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="" tests="3" failures="0" flakes="0" errors="0" skipped="0" time="0.016" hostname="localhost">
+  <testcase name="testThreadTest" classname="androidx.lifecycle.testing.TestLifecycleOwnerAndroidTest" time="0.014" />
+  <testcase name="testHandleLifecycleEvent" classname="androidx.lifecycle.testing.TestLifecycleOwnerAndroidTest" time="0.001" />
+  <testcase name="uiThreadTest" classname="androidx.lifecycle.testing.TestLifecycleOwnerAndroidTest" time="0.001" />
+</testsuite>
